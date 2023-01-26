@@ -1,6 +1,10 @@
 * Como instalar o projeto:
 
-click no botão code va em dowload zip e extraia
+1-click no botão verd escrito code
+
+2-va em dowload zip 
+
+3-extraia o arquivo:)
 
 * Como subir a sua versão
 
