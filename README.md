@@ -3,7 +3,7 @@
 click no botão code va em dowload zip e extraia
 
 * Como subir a sua versão
-* 
+
 1-crie uma conta no github
 
 2-crie um repositorio
@@ -15,3 +15,11 @@ click no botão code va em dowload zip e extraia
 5-importe o projeto
 
 6-evie o projeto clicando em deploy![Captura de Tela (8)](https://user-images.githubusercontent.com/116607537/214971041-05c8f633-4e7e-4899-baa9-41530eacc75e.png)
+
+* Links
+
+curso alura:https://cursos.alura.com.br/course/javascript-manipulando
+
+referencia:https://www.w3schools.com/js/js_htmldom_document.asp
+
+![Captura de Tela (9)](https://user-images.githubusercontent.com/116607537/214972166-0a125518-1ba3-457c-b795-aeda257c02d2.png)
