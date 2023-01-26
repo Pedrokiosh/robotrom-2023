@@ -1,7 +1,9 @@
 * Como instalar o projeto:
-1- click no botão code va em dowload zip e extraia
 
-* Como subir a sua versão 
+click no botão code va em dowload zip e extraia
+
+* Como subir a sua versão
+* 
 1-crie uma conta no github
 
 2-crie um repositorio
