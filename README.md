@@ -1,6 +1,6 @@
 * Como instalar o projeto:
 
-1-click no botão verd escrito code
+1-instale o arquivo zip no git hub
 
 2-va em dowload zip 
 
